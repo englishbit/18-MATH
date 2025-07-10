@@ -26,6 +26,8 @@ int main(){
             
 
         }
+
+        //logic for output
         if(num==1)
         printf("yes");
         else
