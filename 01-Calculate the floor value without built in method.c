@@ -5,7 +5,9 @@ int main(){
           //logic for taking input
           scanf("%f",&num);
           
-         
+
+
+          //logic for calculating the floor value
           if(num<0){
             
             fnl_rslt=(int)num;
