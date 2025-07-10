@@ -2,6 +2,7 @@
 int main(){
           float num;
           int fnl_rslt;
+          //logic for taking input
           scanf("%f",&num);
           
          
@@ -17,6 +18,7 @@ int main(){
           }
           
 
+          //logic for output
           printf("%d",fnl_rslt);
 
 
