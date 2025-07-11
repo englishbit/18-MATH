@@ -11,9 +11,10 @@ int abs(int x){
 
 int main(){
     int n;
+    //logic for taking input
     scanf("%d",&n);
     
-
+    //logic for output
     printf("the absolute value is %d",abs(n));
 
 
