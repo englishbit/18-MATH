@@ -20,7 +20,9 @@ int main(){
            
 
           }
-          printf("%d",expo);
+
+             //logic for output   
+             printf("%d",expo);
     
         }
       }
